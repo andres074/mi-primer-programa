@@ -1,3 +1,5 @@
+'''Crea un programa que sea capaz de contar la cantidad de letras mayúsculas en una string introducida por el usuario.'''
+
 frase_del_usuario = input('Escribe una frase: ')
 
 mayusculas = ['A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','V','W','X','Y','Z']

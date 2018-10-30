@@ -1,4 +1,6 @@
 
+'''Crea un programa que sea capaz de contar espacios, puntos y comas en una string introducida por el usuario'''
+
 frase_del_usuario = input('Escribe una frase: ')
 
 espacios = ' '
