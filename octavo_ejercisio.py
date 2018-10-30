@@ -1,4 +1,6 @@
 
+'''Crea un programa que cuente los elementos de la lista de números introducida por el usuario. Está prohibido utilizar la función len() para resolver el problema.'''
+
 lista_usuario = []
 
 usser_number = input('Elige un numero para agregar a tu lista:')

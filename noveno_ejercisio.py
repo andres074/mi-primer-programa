@@ -1,7 +1,11 @@
 
+'''Crea un programa que calcule la media de los elementos de la lista de números introducida por el usuario (media = suma de todos los numeros / numero de numeros )'''
+
 lista_usuario = []
 
 usser_number = input('Elige un numero para agregar a tu lista:')
+while not usser_number.isdigit():
+    usser_number = input('Elige un numero para agregar a tu lista:')
 while usser_number != 'fin':
     lista_usuario.append(int(usser_number))
     print('Numero agregado')

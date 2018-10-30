@@ -1,4 +1,4 @@
-
+'''Crea un programa que encuentre el número más pequeño de una serie de números introducidos por el usuario'''
 usser_numbers = []
 added_number = ''
 
