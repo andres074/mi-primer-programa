@@ -1,4 +1,6 @@
 
+'''Crear un programa que le repita al usuario todo lo que dice pero con todas las vocales cambiadas por i.'''
+
 string_a_cambiar = input('Con que frase deseas trabajar?')
 vocales = ['a','e','i','o','u']
 

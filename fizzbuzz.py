@@ -2,7 +2,7 @@
 Dada una lista de enteros:
 Vamos a sustituir los multiplos de 3 por un Fizz
 Y los multiplos de 5 por un Buzz
-multiplos de 3 y de 5 vamos a sustituirlos por un FizzBuzz
+multiplos de 3 y de 5 vamos a sustituirlos por un Bazinga
 '''
 lista_numeros = [3,7,5,68,515,32,748,954,786,2146,54,6,30,15]
 
